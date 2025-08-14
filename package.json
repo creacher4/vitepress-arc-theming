@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "vitepress": "latest"
+  },
+  "dependencies": {
+    "iconify": "^1.4.0"
   }
 }
