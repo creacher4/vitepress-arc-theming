@@ -1,6 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
 import './styles/tokens.css'
-import './styles/overrides.css'
 import './custom.css'
 
 export default {
